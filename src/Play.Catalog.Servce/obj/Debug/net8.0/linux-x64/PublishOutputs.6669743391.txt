@@ -1,0 +1,11 @@
+c:\Users\Reza\Desktop\learnQ\microService\1\my-code\Play.Catalog\src\Play.Catalog.Servce\bin\Debug\net8.0\linux-x64\publish\Play.Catalog.Servce
+c:\Users\Reza\Desktop\learnQ\microService\1\my-code\Play.Catalog\src\Play.Catalog.Servce\bin\Debug\net8.0\linux-x64\publish\appsettings.Development.json
+c:\Users\Reza\Desktop\learnQ\microService\1\my-code\Play.Catalog\src\Play.Catalog.Servce\bin\Debug\net8.0\linux-x64\publish\appsettings.json
+c:\Users\Reza\Desktop\learnQ\microService\1\my-code\Play.Catalog\src\Play.Catalog.Servce\bin\Debug\net8.0\linux-x64\publish\Play.Catalog.Servce.dll
+c:\Users\Reza\Desktop\learnQ\microService\1\my-code\Play.Catalog\src\Play.Catalog.Servce\bin\Debug\net8.0\linux-x64\publish\Play.Catalog.Servce.deps.json
+c:\Users\Reza\Desktop\learnQ\microService\1\my-code\Play.Catalog\src\Play.Catalog.Servce\bin\Debug\net8.0\linux-x64\publish\Play.Catalog.Servce.runtimeconfig.json
+c:\Users\Reza\Desktop\learnQ\microService\1\my-code\Play.Catalog\src\Play.Catalog.Servce\bin\Debug\net8.0\linux-x64\publish\Play.Catalog.Servce.pdb
+c:\Users\Reza\Desktop\learnQ\microService\1\my-code\Play.Catalog\src\Play.Catalog.Servce\bin\Debug\net8.0\linux-x64\publish\Microsoft.OpenApi.dll
+c:\Users\Reza\Desktop\learnQ\microService\1\my-code\Play.Catalog\src\Play.Catalog.Servce\bin\Debug\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Reza\Desktop\learnQ\microService\1\my-code\Play.Catalog\src\Play.Catalog.Servce\bin\Debug\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Reza\Desktop\learnQ\microService\1\my-code\Play.Catalog\src\Play.Catalog.Servce\bin\Debug\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
